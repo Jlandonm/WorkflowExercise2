@@ -6,4 +6,4 @@ To run workflow ---->
 
 In Linux command line, in a conda environment with Nextflow 23.10 installed, run:
 
-  nextflow run Workflow2_Final.nf
+    nextflow run Workflow2_Final.nf
